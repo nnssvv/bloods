@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bloods/static/css/main.e6c13ad2.css",
-    "main.js": "/bloods/static/js/main.02e4c093.js",
+    "main.js": "/bloods/static/js/main.5fa26bc3.js",
     "static/js/453.fa09013b.chunk.js": "/bloods/static/js/453.fa09013b.chunk.js",
     "index.html": "/bloods/index.html",
     "main.e6c13ad2.css.map": "/bloods/static/css/main.e6c13ad2.css.map",
-    "main.02e4c093.js.map": "/bloods/static/js/main.02e4c093.js.map",
+    "main.5fa26bc3.js.map": "/bloods/static/js/main.5fa26bc3.js.map",
     "453.fa09013b.chunk.js.map": "/bloods/static/js/453.fa09013b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.02e4c093.js"
+    "static/js/main.5fa26bc3.js"
   ]
 }
