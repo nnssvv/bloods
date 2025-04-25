@@ -25,7 +25,7 @@ function App() {
   const [metric, setMetric] = useState([]);
 
   useEffect(() => {
-    fetch('/bloods_historic.csv')
+    fetch(`${process.env.PUBLIC_URL}/bloods_historic.csv`)
       .then(response => response.text())
       .then(csv => {
         const parsed = Papa.parse(csv, { header: true });
